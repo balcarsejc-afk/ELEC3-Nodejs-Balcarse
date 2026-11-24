@@ -1,0 +1,1 @@
+Capture GET all, GET one, POST, PUT, DELETE and not-found responses using Postman/Thunder Client.
